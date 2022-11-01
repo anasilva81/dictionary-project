@@ -13,7 +13,7 @@ export default function Footer() {
       </a>{" "}
       by{" "}
       <a
-        href="https://fastidious-snickerdoodle-2cbbd8.netlify.app/"
+        href="https://illustrious-faun-bd17c1.netlify.app/"
         target="_blank"
         rel="noopener noreferrer"
       >
