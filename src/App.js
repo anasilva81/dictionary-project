@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div classNme="container">
+    <div className="container">
       <div className="App">
         <header className="fixed-top App-header">
           <h1>Dictionary App</h1>
