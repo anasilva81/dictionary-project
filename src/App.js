@@ -11,7 +11,7 @@ function App() {
         </header>
       </div>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="Word" />
       </main>
       <footer>
         <Footer />

@@ -1,0 +1,13 @@
+.Synonyms {
+  display: flex;
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.Synonyms li {
+  padding: 0 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+  border: 1px solid rgb(13, 71, 71);
+  border-radius: 5px;
+}

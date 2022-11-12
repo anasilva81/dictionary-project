@@ -1,5 +1,11 @@
 .btn {
   margin-bottom: 10px;
+  background-color: #9da993;
+}
+
+.btn :hover {
+  color: #9da993;
+  background-color: white;
 }
 
 .pronounce {

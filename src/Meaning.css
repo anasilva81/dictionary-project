@@ -1,3 +1,12 @@
+.Meaning h3 {
+  color: black;
+}
+
+.definition {
+  font-weight: bold;
+}
+
 .example {
-  font-weight: lighter;
+  font-size: 14px;
+  opacity: 0.6;
 }

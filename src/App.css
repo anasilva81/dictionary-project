@@ -1,5 +1,10 @@
+* {
+  color: #3e423b;
+}
+
 h1 {
   display: block;
   text-align: center;
-  background-color: blue;
+  background-color: #9da993;
+  padding-bottom: 12px;
 }

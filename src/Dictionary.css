@@ -1,8 +1,26 @@
 .Dictionary {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 80px;
 }
 
-.form-text {
-  max-width: 200pxs;
+.Dictionary section {
+  background: #c3d6b3;
+  box-shadow: 1px 5px 5px #d6eec3;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.Dictionary input {
+  display: center;
+  color: black;
+  width: 60%;
+  height: 40px;
+  border: 2px solid rgb(13, 71, 71);
+  border-radius: 2px;
+}
+
+.search-btn {
+  height: 40px;
+  padding: 0 10px;
 }

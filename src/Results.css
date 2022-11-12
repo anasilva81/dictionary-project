@@ -2,3 +2,7 @@
   text-transform: capitalize;
   text-align: justify;
 }
+
+h2 {
+  color: black;
+}
