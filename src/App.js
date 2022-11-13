@@ -4,18 +4,20 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="container">
-      <div className="App">
-        <header className="fixed-top App-header">
-          <h1>Dictionary App</h1>
-        </header>
+    <div className="App">
+      <div className="container">
+        <div className="AppHeader">
+          <header className="fixed-top App-header">
+            <h1>Dictionary App</h1>
+          </header>
+        </div>
+        <main>
+          <Dictionary defaultKeyword="Word" />
+        </main>
+        <footer>
+          <Footer />
+        </footer>
       </div>
-      <main>
-        <Dictionary defaultKeyword="Word" />
-      </main>
-      <footer>
-        <Footer />
-      </footer>
     </div>
   );
 }
